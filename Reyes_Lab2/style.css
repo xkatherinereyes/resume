@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers|Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Finger+Paint|Open+Sans+Condensed:300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+SC|Bangers|Gayathri|Luckiest+Guy|Pompiere|Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+SC|Bangers|Gayathri|Luckiest+Guy|Pompiere|Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+SC|Bangers|Carrois+Gothic+SC|Gayathri|Luckiest+Guy|Pompiere|Righteous&display=swap');
+
+#sideNav {
+                background: black;
+                height: 250vh
+            }
+
+#MainContent {
+    background-color:whitesmoke
+    padding-top: 1rem
+                
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    padding-left: 0;
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+img {
+    padding-top:lrem;
+    padding-bottom:lrem;
+    object-fit: cover;
+    max-width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-top: 5em;
+    margin-bottom: 0.5em;
+    width: 100%;
+}
+
+h1{
+    color:skyblue;
+  font-family: 'Bangers', cursive;
+}
+
+h5 {
+    color: #89DAFF;
+    font-family: 'Gayathri', sans-serif;
+}
+
+h6 {
+    color:#89DAFF;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+h3 {
+    color:#89DAFF;
+    font-family: 'Alegreya SC', serif;
+    
+}
+
+a{
+    color: white
+}
